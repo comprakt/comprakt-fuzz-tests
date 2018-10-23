@@ -1,0 +1,3 @@
+class Nmm2Jka {
+
+}

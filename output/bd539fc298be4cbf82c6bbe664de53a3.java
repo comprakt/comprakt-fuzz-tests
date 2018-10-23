@@ -1,0 +1,3 @@
+class zsy4k {
+
+}

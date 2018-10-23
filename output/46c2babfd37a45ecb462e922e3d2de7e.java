@@ -1,0 +1,3 @@
+class jg6Rg {
+
+}

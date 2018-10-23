@@ -1,0 +1,3 @@
+class GnYml2 {
+
+}

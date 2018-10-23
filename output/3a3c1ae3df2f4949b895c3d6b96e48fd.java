@@ -1,0 +1,3 @@
+class isLowMunN0V {
+
+}

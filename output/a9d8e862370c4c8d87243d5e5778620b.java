@@ -1,0 +1,3 @@
+class wygj {
+
+}

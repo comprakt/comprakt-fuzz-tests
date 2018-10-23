@@ -1,0 +1,7 @@
+class R {
+
+}
+
+class G {
+
+}
